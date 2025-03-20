@@ -3,7 +3,6 @@
 Телеграм-бот для анализа эмоциональной окраски новостей с Lenta.ru с использованием ИИ и визуализацией результатов.
 
 [![Версия Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
-[![Лицензия](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
 ## Возможности ✨
